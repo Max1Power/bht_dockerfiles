@@ -1,0 +1,2 @@
+# Ignoriere PyTorch-Checkpoint-Dateien
+*.pth
